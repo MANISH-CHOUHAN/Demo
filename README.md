@@ -1,2 +1,7 @@
-# Demo
-here i am going to show some demo
+#include <stdio.h>
+int main()
+{
+   // printf() displays the string inside quotation
+   printf("DEMO");
+   return 0;
+}
