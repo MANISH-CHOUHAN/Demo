@@ -1,8 +1,12 @@
+/* Author:-
+   Program:-
+   Description:-               */
+   
 #include<stdio.h>
 int main(){
     
     printf("Hello World\n\a");
 
-    printf("Hi\n")
+    printf("Hi\n");
     return 0;
 }
